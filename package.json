@@ -1,0 +1,19 @@
+{
+  "name": "wind",
+  "version": "1.0.0",
+  "description": "wind",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/719034075/wind.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/719034075/wind/issues"
+  },
+  "homepage": "https://github.com/719034075/wind#readme"
+}
